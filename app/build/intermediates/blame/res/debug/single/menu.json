@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/rusk/AndroidStudioProjects/ToDoApp/C:\\Androidprojecct\\ToDoApp\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main_menu.xml",
+        "source": "/home/rusk/AndroidStudioProjects/ToDoApp/C:\\Androidprojecct\\ToDoApp\\app\\src\\main\\res\\menu\\main_menu.xml"
+    },
+    {
+        "merged": "/home/rusk/AndroidStudioProjects/ToDoApp/app/build/intermediates/res/merged/debug/menu/main_menu.xml",
+        "source": "/home/rusk/AndroidStudioProjects/ToDoApp/app/src/main/res/menu/main_menu.xml"
+    }
+]

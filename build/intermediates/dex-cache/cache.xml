@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\LENOVO\Desktop\android-studio-ide-145.2878421-windows\android-studio\gradle\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-alpha1\constraint-layout-solver-1.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="23c28d005ab0c8197f8ee39d63b4dd09949bf9cc">
+        <dex dex="C:\Androidprojecct\ToDoApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.0-alpha1_38d2673b2ab6508be685bf63a5fc019e39d1067f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Androidprojecct\ToDoApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Androidprojecct\ToDoApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_092043b027919da07c473bfd6aefb44eb4734237\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Androidprojecct\ToDoApp\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="6ea200a19689e637dafc8b8f036734a1b9cbe2b3">
+        <dex dex="C:\Androidprojecct\ToDoApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support.constraint-constraint-layout-1.0.0-alpha1_835cced7ef83f079243aad57354ffbe6999558b8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Androidprojecct\ToDoApp\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Androidprojecct\ToDoApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_2ab5ac161dc9d6773acd72fc0c6ce1083f6f5c70\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LENOVO\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Androidprojecct\ToDoApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_1b7cd2c4df0012e3c0b0b75d7e7d945e95b0ba32\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Androidprojecct\ToDoApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Androidprojecct\ToDoApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_04bd09b06a9008440d731a970bcca9a8212853c0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Androidprojecct\ToDoApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Androidprojecct\ToDoApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_c518e0f78433dfca03ffe5f0948cd38a18321d90\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Androidprojecct\ToDoApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="e1652e50be5c697029620962606ece4ae79e4a02">
+        <dex dex="C:\Androidprojecct\ToDoApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_41138d27b711ba62aab2d54470fc93b9d19f8c5b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Androidprojecct\ToDoApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="de22aa9066809ce44a67150985ecda01b903f876">
+        <dex dex="C:\Androidprojecct\ToDoApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_3a872b07f5b6640c168544e61a34812cc2902719\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Androidprojecct\ToDoApp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Androidprojecct\ToDoApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_2244301f71b266658458e181e3313cec6eacceaa\classes.dex" />
+    </item>
+
+</items>
